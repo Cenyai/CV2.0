@@ -1,5 +1,5 @@
 document.querySelector('input[name="mostrar"]').addEventListener('click', function() {
-    fetch('index.html')
+    fetch('idiomas.html')
       .then(function(response) {
         return response.text();
       })

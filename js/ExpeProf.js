@@ -1,5 +1,5 @@
 document.querySelector('input[name="mostrar"]').addEventListener('click', function() {
-    fetch('index.html')
+    fetch('ExperienciaProfesional.html')
       .then(function(response) {
         return response.text();
       })
