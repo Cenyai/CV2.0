@@ -1,26 +1,26 @@
 #btn1{
     width: 70%;
-    margin-bottom: 30%;
+    margin-bottom:10px;
 }
 
 #btn2{
     width: 70%;
-    margin-bottom: 30%;
+    margin-bottom: 10px;
 }
 
 #btn3{
     width: 70%;
-    margin-bottom: 30%;
+    margin-bottom: 10px;
 }
 
 #btn4{
     width: 70%;
-    margin-bottom: 30%;
+    margin-bottom: 10px;
 }
 
 #btn5{
     width: 70%;
-    margin-bottom: 30%;
+    margin-bottom: 10px;
 }
 
 .img1{
@@ -28,73 +28,7 @@
     height: 102px;
     margin-left: 80%;
 }
-
-.uno{
-    border: 1px solid burlywood;
-   
+.ocultar{
+    display: none;
 }
 
-.dos{
-    border: 1px solid burlywood;
-   
-}
-
-.tres{
-    border: 1px solid burlywood;
-   
-}
-
-.cuatro{
-    border: 1px solid burlywood;
-    
-}
-
-.est1{
-    border: 1px solid burlywood;
-  
-}
-
-.est2{
-    border: 1px solid burlywood;
-    
-}
-
-.pri{
-    border: 1px solid burlywood;
-    
-}
-
-.seg{
-    border: 1px solid burlywood;
-    
-}
-
-.ter{
-    border: 1px solid burlywood;
-   
-}
-
-.cuar{
-    border: 1px solid burlywood;
-  
-}
-
-.quin{
-    border: 1px solid burlywood;
-   
-}
-
-.imp{
-    border: 1px solid burlywood;
-    
-}
-
-.t1{
-    border: 1px solid burlywood;
-    
-}
-
-.t2{
-    border: 1px solid burlywood;
-   
-}
