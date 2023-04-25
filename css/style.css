@@ -16,14 +16,14 @@
 #btn4{
     width: 70%;
     margin-bottom: 10px;
-    margin-left: 75px;
+    margin-left: 3px;
     
 }
 
 #btn5{
-    width: 70%;
+    width: 146%;
     margin-bottom: 10px;
-    margin-left: 75px;
+    margin-left: 3px;
 }
 
 .img1{
@@ -33,5 +33,11 @@
 }
 .ocultar{
     display: none;
+}
+
+body{
+    background-color: rgb(212, 171, 148)
+    
+    ;
 }
 
