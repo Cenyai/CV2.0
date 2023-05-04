@@ -45,8 +45,7 @@ window.onload = () => {
     }
 }
 
-document.getElementById("boton").addEventListener("click", function(){
-    window.location.href = "index.html"; // Reemplaza "index.html" con la URL de tu página principal
+document.getElementById("Back").addEventListener("click", function(){
+    window.location.href = "/Unday/index.html"; // Reemplaza "index.html" con la URL de tu página principal
   });
-
 
